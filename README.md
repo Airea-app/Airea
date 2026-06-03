@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/🌐_Web-Airea-blue?style=for-the-badge" alt="Web">
   </a>
   <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Versión-v0.0.5-3ECF8E?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Versión-v1.1.0-3ECF8E?style=for-the-badge" alt="Version">
 </p>
 
 ---
